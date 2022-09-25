@@ -22,7 +22,7 @@ public class Main
 		    
 		    while(j<=n)
 		    {
-		        System.out.print(j);
+		        System.out.print(n-j+1); // to reverse
 		        j+=1;
 		    }
 		    System.out.println();
